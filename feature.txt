@@ -1,0 +1,58 @@
+Design a high-performance, SEO-first marketing website for a car rental platform called Autoro.
+🔍 Project Context
+Autoro is a mobile application that connects car owners and renters through a peer-to-peer car rental model, targeting Morocco and the MENA region.
+The website’s main goal is organic Google traffic, trust, and conversions, with minimal complexity.
+⚙️ Technical Constraints
+Use HTML5 + CSS only
+Avoid JavaScript completely (or keep it to an absolute minimum if unavoidable)
+Pages must be fast, lightweight, and accessible
+Mobile-first and responsive
+📈 SEO Requirements
+Clean semantic HTML structure:
+header, nav, main, section, article, footer
+Proper use of H1 → H3 headings hierarchy
+Optimized meta tags (title, description, robots)
+Use <noscript> for graceful fallbacks
+Content optimized for Google indexing and featured snippets
+🎯 Target Keywords (must be naturally integrated in content)
+rent a car
+car rental app
+peer to peer car rental
+rent a car in Morocco
+car sharing platform
+📄 Pages to Design
+Home Page
+Strong hero section with a clear value proposition
+Call-to-action: “Rent a Car” / “List Your Car”
+Trust and safety highlights
+How It Works
+Step-by-step explanation
+Separate sections for renters and car owners
+For Car Owners
+Earn passive income
+Insurance, verification, and control
+For Renters
+Easy booking
+Wide car selection
+Secure payments
+About Autoro
+Mission, vision, and values
+Contact Page
+Simple HTML contact form
+🎨 Design Style
+Modern, clean, and professional
+Trust-focused (mobility, safety, reliability)
+Primary color: #120882 (navy blue)
+Soft neutral background
+Readable typography optimized for long-form SEO content
+🧠 SEO Best Practices to Apply
+No JavaScript for core functionality
+Fast loading and minimal CSS
+Ready for future static blog integration (Markdown → HTML)
+SEO-friendly URLs and internal linking strategy
+📦 Output Expected
+Production-ready HTML structure
+Clean, maintainable CSS
+SEO-optimized copywriting
+No frameworks, no JavaScript
+Think like a startup building a long-term organic traffic machine focused on trust, clarity, and conversion.
