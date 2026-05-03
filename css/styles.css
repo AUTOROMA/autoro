@@ -558,6 +558,25 @@ footer {
     color: var(--bg-white);
 }
 
+.store-badges {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin-top: 0.25rem;
+}
+
+.store-badge {
+    display: inline-block;
+    transition: opacity 0.2s ease, transform 0.2s ease;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.store-badge:hover {
+    opacity: 0.85;
+    transform: translateY(-2px);
+}
+
 .footer-bottom {
     text-align: center;
     padding-top: 2rem;
